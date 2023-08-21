@@ -1,5 +1,7 @@
 # MDS_DNALoop
 Multidimensional Scaling Methods Can Reconstruct Genomic DNA Loops Using Hi-C Data Properties.
+The paper was published from PLoSONE.
+Citation: Ishibashi R (2023) Multidimensional scaling methods can reconstruct genomic DNA loops using Hi-C data properties. PLoS ONE 18(8): e0289651. https://doi.org/10.1371/journal.pone.0289651
 
 # Installation
 You can install 'straw' for .hic file from GitHub with:
